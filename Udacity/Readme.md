@@ -8,4 +8,13 @@ At a high level, here are the setup tasks you will need to perform to prepare yo
 Select **Compute, and go to compute instance** in the left navigation and then select **+ New**
 ![Select Create Compute Instance in Azure Portal]</br></br>
 <kbd>![](Udacity/udacity01.png)</kbd></br></br>
+Enter the Compute Instance Name 
+<kbd>![](Udacity/udacity02.png)</kbd></br></br>
+It will take around 5 minutes to get compute instance created .
+After creation we have to import notebooks.
+## Task 2: Import the notebook 
+1. Once the compute instance is created , click on jupyter and then you will be redirected to jupyter environment.
+2. click on 
+
+
 
